@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color: grey;
+}
+
+.present{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+
+.future{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
